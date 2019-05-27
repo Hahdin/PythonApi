@@ -4,11 +4,15 @@
 ## Installation
 
 Requirements
-- [Python 3+](https://www.python.org/downloads/) - this will include ```pip``` 
+- [Python 3+](https://www.python.org/downloads/) - this will include [pip](https://pip.pypa.io/en/stable/installing/) 
+
+   > Version 3.6.2 used.
+
 - Use pip to install ```flask-restful```
 ```
 pip install flask-restful
 ```
+   > Flask-RESTful requires Python version 2.6, 2.7, 3.3, 3.4, 3.5 or 3.6.
 ### Testing tools
 install either:
 - [Postman](https://www.getpostman.com/)
