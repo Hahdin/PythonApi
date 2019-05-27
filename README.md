@@ -15,4 +15,4 @@ install either:
 - [Insomnia](https://insomnia.rest/)
 
 ## Debugging
-Using [VS Code]() press F5 and choose either ```Python File``` or ```Flask``` to start the server.
+Using [VS Code](https://code.visualstudio.com/download) press F5 and choose either ```Python File``` or ```Flask``` to start the server.
