@@ -1,4 +1,4 @@
-from flask_restful import Api, Resource, reqparse
+from flask_restful import Resource, reqparse
 import data
 users = data.users # leave in global space
 
