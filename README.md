@@ -13,6 +13,14 @@ Requirements
 pip install flask-restful
 ```
    > Flask-RESTful requires Python version 2.6, 2.7, 3.3, 3.4, 3.5 or 3.6.
+
+### config.json
+You must include a config.json file in the main folder and add the following with the port number of your choosing:
+```json
+{
+   "PORT": 7777
+}
+```
 ### Testing tools
 install either:
 - [Postman](https://www.getpostman.com/)
